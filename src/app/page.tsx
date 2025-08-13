@@ -8,13 +8,13 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center space-y-12">
           {/* Main Heading */}
           <div className="space-y-6 text-center py-[147px]">
-            <h1 className="text-5xl sm:text-7xl font-bold text-gray-800 dark:text-gray-200 tracking-tight">
+            <h1 className="text-5xl sm:text-7xl font-bold text-gray-800 dark:text-gray-200 tracking-tight font-mono">
               Your Journey
               <span className="block text-gray-600 dark:text-gray-400">
                 Begins Here
               </span>
             </h1>
-            <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-400 font-light max-w-2xl mx-auto">
+            <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto font-mono font-bold">
               Craft, Create, Inspire
             </p>
           </div>
