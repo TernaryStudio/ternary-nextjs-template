@@ -150,7 +150,7 @@ importers:
         specifier: ^3.25.28
         version: 3.25.28
     devDependencies:
-      '@dyad-sh/nextjs-webpack-component-tagger':
+      '@ternary-sh/nextjs-webpack-component-tagger':
         specifier: ^0.8.0
         version: 0.8.0(webpack@5.99.9)
       '@types/node':
@@ -199,7 +199,7 @@ packages:
     resolution: {integrity: sha512-ETyHEk2VHHvl9b9jZP5IHPavHYk57EhanlRRuae9XCpb/j5bDCbPPMOBfCWhnl/7EDJz0jEMCi/RhccCE8r1+Q==}
     engines: {node: '>=6.9.0'}
 
-  '@dyad-sh/nextjs-webpack-component-tagger@0.8.0':
+  '@ternary-sh/nextjs-webpack-component-tagger@0.8.0':
     resolution: {integrity: sha512-gWG2jdC9+f2fzlxBH4jrUunHObTgfNR1a6YZv9xHuTSC+IQmEtNKIYO220LViQv/Enjnr6xWdRHLcoaAxSZXgg==}
     peerDependencies:
       webpack: ^5.0.0
@@ -2116,7 +2116,7 @@ snapshots:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.27.1
 
-  '@dyad-sh/nextjs-webpack-component-tagger@0.8.0(webpack@5.99.9)':
+  '@ternary-sh/nextjs-webpack-component-tagger@0.8.0(webpack@5.99.9)':
     dependencies:
       '@babel/parser': 7.27.5
       estree-walker: 2.0.2
